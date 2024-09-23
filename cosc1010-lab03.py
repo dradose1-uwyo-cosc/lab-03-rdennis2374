@@ -1,9 +1,9 @@
-# Your Name Here
+# Ryan Dennis
 # UWYO COSC 1010
-# Submission Date
+# 9/23/2024
 # Lab 03 
-# Lab Section: 
-# Sources, people worked with, help given to: 
+# Lab Section: 14
+# Sources, people worked with, help given to: None
 # your
 # comments
 # here
